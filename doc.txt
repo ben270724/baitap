@@ -1,0 +1,6 @@
+pick table feature
+thêm bảng feature
+tạo cột của feature
+thêm laravel 
+tạo model 
+sử dụng router để hiển thị ra view
